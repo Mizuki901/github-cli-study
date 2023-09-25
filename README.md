@@ -1,11 +1,23 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# github-cli-study
 
-To start the slide show:
+GitHub CLIについて調べてまとめたリポジトリ
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+# 資料
 
-Edit the [slides.md](./slides.md) to see the changes.
+https://mizuki901.github.io/github-cli-study/
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+# 個人用のメモ
+
+資料は [Slidev](https://sli.dev/) を使って作成。
+
+資料のプレビュー:
+
+```
+npm run dev
+```
+
+資料のビルド:
+
+```
+npm run build
+```
