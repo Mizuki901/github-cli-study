@@ -140,7 +140,7 @@ gh <拡張機能>
 
 ---
 layout: image-right
-image: ./img/gh_ext_search.png
+image: /public/gh_ext_search.png
 ---
 
 # 人気の拡張機能
